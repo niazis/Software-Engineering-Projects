@@ -1,7 +1,6 @@
 /*
 Name: Muhammad Niazi
 Class: 370-32
-ID: 23812328
 */
 
 package edu.qc.seclass;
